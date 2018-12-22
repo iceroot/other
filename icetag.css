@@ -1,0 +1,36 @@
+﻿.ice-page{
+    width:35px;
+    height:35px;
+    border:1px solid #e3e3e3;
+    margin-right:9px;
+    text-decoration:none;/* 去掉下划线 */
+    text-align:center;
+    line-height:35px;
+    display:inline-block;
+}
+.ice-page.hover{
+    color:#ffffff;
+    background-color:#225588;
+}
+.ice-first{
+    color:#ffffff;
+    background-color:#3388dd;
+}
+.ice-last{
+    color:#ffffff;
+    background-color:#3388dd;
+}
+.ice-prev{
+    width:50px;
+    color:#ffffff;
+    background-color:#3388dd;
+}
+.ice-next{
+    width:50px;
+    color:#ffffff;
+    background-color:#3388dd;
+}
+.ice-page span{
+    width:35px;
+    display:inline-block;
+}
